@@ -1,0 +1,20 @@
+# Ignorar entornos virtuales
+venv/
+ENV/
+env/
+
+# Ignorar dependencias de Node (si tienes Angular)
+node_modules/
+
+# Ignorar archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+
+# Ignorar configuraciones locales
+.DS_Store
+Thumbs.db
